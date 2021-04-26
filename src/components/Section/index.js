@@ -1,4 +1,4 @@
 import React from "react";
-import "../styles/Section.css";
+import "./styles.css";
 
 export default Section;
