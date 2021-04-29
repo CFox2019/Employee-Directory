@@ -1,58 +1,51 @@
 [
   {
-    "image": "",
+    "image": "https://pcdn.columbian.com/wp-content/uploads/2018/01/0126_WKD_Flash-Patton-1226x0-c-default.jpg",
     "name": "Iris West",
-    "Phone": "(662)656-9226",
-    "Email": "iris.west@example.com",
-    "DOB": "07-07-1992"
+    "phone": "(662)656-9226",
+    "email": "iris.west@example.com",
+    "dob": "07-07-1992"
   },
   {
-    "image": "",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/28bafe2/2147483647/strip/true/crop/800x534+0+0/resize/840x561!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa1%2Ff5%2F8bba6e61601a40e6cdc77c64afff%2Fla-1464159309-snap-photo",
     "name": "Barry Allen",
-    "Phone": "(662)565-6223",
-    "Email": "barry.allen@example.com",
-    "DOB": "12-05-1991"
+    "phone": "(662)565-6223",
+    "email": "barry.allen@example.com",
+    "dob": "12-05-1991"
   },
   {
-    "image": "",
+    "image": "https://i.pinimg.com/originals/48/ba/85/48ba858fea71fd2ee793c622bb6d9f12.jpg",
     "name": "Felicity Smoak",
-    "Phone": "(125)646-9067",
-    "Email": "felicity.smoak@example.com",
-    "DOB": "04-12-1983"
+    "phone": "(125)646-9067",
+    "email": "felicity.smoak@example.com",
+    "dob": "04-12-1983"
   },
   {
-    "image": "",
+    "image": "https://i.pinimg.com/originals/43/9e/5c/439e5ca40664eaa089667ef4885630ce.jpg",
     "name": "Oliver Queen",
-    "Phone": "(345)678-5437",
-    "Email": "oliver.queen@example.com",
-    "DOB": "11-07-1980"
+    "phone": "(345)678-5437",
+    "email": "oliver.queen@example.com",
+    "dob": "11-07-1980"
   },
   {
-    "image": "",
+    "image": "https://i1.wp.com/thenerdsofcolor.org/wp-content/uploads/2014/05/anthony-mackie-captain-america-the-winter-soldier-1920x1200.jpg?fit=1920%2C1200&ssl=1",
     "name": "Sam Wilson",
-    "Phone": "(987)678-2345",
-    "Email": "sam.wilson@example.com",
-    "DOB": "05-12-1982"
+    "phone": "(987)678-2345",
+    "email": "sam.wilson@example.com",
+    "dob": "05-12-1982"
   },
   {
-    "image": "",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZrNfatnEZviqDwv4gme_2pspeTXH43H7_XA&usqp=CAU",
     "name": "Bucky Barnes",
-    "Phone": "(567)698-5678",
-    "Email": "bucky.barnes@example.com",
-    "DOB": "08-06-1959"
+    "phone": "(567)698-5678",
+    "email": "bucky.barnes@example.com",
+    "dob": "08-06-1959"
   },
   {
-    "image": "",
+    "image": "https://fangirlish.com/wp-content/uploads/2019/10/Natasha-Romanoff.jpg",
     "name": "Natasha Romanoff",
-    "Phone": "(453)678-0984",
-    "Email": "natasha.romanoff@example.com",
-    "DOB": "10-30-1978"
-  },
-  {
-    "image": "",
-    "name": "Peter Quill",
-    "Phone": "(763)987-3456",
-    "Email": "peter.quill@example.com",
-    "DOB": "02-07-1985"
+    "hone": "(453)678-0984",
+    "email": "natasha.romanoff@example.com",
+    "dob": "10-30-1978"
   }
 ]

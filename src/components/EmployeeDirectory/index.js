@@ -1,12 +1,12 @@
 import React from "react";
 import Table from "./Table";
-import Row from "./Row";
+// import Row from "./Row";
 import Col from "./Col";
 // import EmployeeListItem from "./EmployeeListItem";
 
-function Directory() {
+function EmployeeDirectory(props) {
   return (
-    <>
+    <div className="container">
       <Table striped bordered hover>
         <thead>
             <Col size="md-12">
@@ -17,9 +17,27 @@ function Directory() {
               <th>DOB</th>
             </Col>
         </thead>
+        <tbody>
+          <Col size="md-12">
+            <tr>
+              <img
+                alt={props.name}
+                src={props.image}
+                style={{
+                  height:120,
+                  width: 170
+                }} 
+              />
+              {props.name}
+              {props.phone}
+              {props.email}
+              {props.dob}
+            </tr>
+          </Col>
+        </tbody>
       </Table>
-    </>
+    </div>
   );
 }
 
-export default Directory;
+export default EmployeeDirectory;
