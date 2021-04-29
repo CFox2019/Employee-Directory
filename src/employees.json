@@ -1,0 +1,58 @@
+[
+  {
+    "image": "",
+    "name": "Iris West",
+    "Phone": "(662)656-9226",
+    "Email": "iris.west@example.com",
+    "DOB": "07-07-1992"
+  },
+  {
+    "image": "",
+    "name": "Barry Allen",
+    "Phone": "(662)565-6223",
+    "Email": "barry.allen@example.com",
+    "DOB": "12-05-1991"
+  },
+  {
+    "image": "",
+    "name": "Felicity Smoak",
+    "Phone": "(125)646-9067",
+    "Email": "felicity.smoak@example.com",
+    "DOB": "04-12-1983"
+  },
+  {
+    "image": "",
+    "name": "Oliver Queen",
+    "Phone": "(345)678-5437",
+    "Email": "oliver.queen@example.com",
+    "DOB": "11-07-1980"
+  },
+  {
+    "image": "",
+    "name": "Sam Wilson",
+    "Phone": "(987)678-2345",
+    "Email": "sam.wilson@example.com",
+    "DOB": "05-12-1982"
+  },
+  {
+    "image": "",
+    "name": "Bucky Barnes",
+    "Phone": "(567)698-5678",
+    "Email": "bucky.barnes@example.com",
+    "DOB": "08-06-1959"
+  },
+  {
+    "image": "",
+    "name": "Natasha Romanoff",
+    "Phone": "(453)678-0984",
+    "Email": "natasha.romanoff@example.com",
+    "DOB": "10-30-1978"
+  },
+  {
+    "image": "",
+    "name": "Peter Quill",
+    "Phone": "(763)987-3456",
+    "Email": "peter.quill@example.com",
+    "DOB": "02-07-1985"
+  }
+]
