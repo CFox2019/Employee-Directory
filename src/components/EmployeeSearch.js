@@ -1,4 +1,5 @@
 import React from "react";
+import './EmployeeSearch.css';
 
 function EmployeeSearch(props) {
   return(

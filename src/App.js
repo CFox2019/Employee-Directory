@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Title from "./components/Title";
-import EmployeeSearch from "./components/EmployeeSearch";
-import EmployeeDirectory from "./components/EmployeeDirectory";
+import Title from "./components/Title.js";
+import EmployeeSearch from "./components/EmployeeSearch.js";
+import EmployeeDirectory from "./components/EmployeeDirectory.js";
 import './App.css';
 import API from './utils/API'
 import Employee from "./models/Employee";

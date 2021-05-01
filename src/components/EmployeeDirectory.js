@@ -1,5 +1,5 @@
 import React from "react";
-import Table from "./Table";
+import './EmployeeDirectory.css';
 import EmployeeListItem from "./EmployeeListItem";
 
 function EmployeeDirectory(props) {
