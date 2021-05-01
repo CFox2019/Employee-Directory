@@ -8,6 +8,7 @@ function EmployeeSearch(props) {
           type="text"
           placeholder="Search"
           className="mr-sm-2"
+          onChange={props.handleSearch}
         />
       </form>
     </>

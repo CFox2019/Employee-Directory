@@ -2,27 +2,30 @@ import React from "react";
 
 function EmployeeListItem(props) {
   return (
-    <div className="list-item">
-        <div className="list-container">
-          <ul>
-            <li>
-              <img alt={props.name} src={props.image} />
-            </li>
-            <li>
-              {props.name}
-            </li>
-            <li>
-              {props.phone}
-            </li>
-            <li>
-              {props.email}
-            </li>
-            <li>
-              {props.dob}
-            </li>
-          </ul>
-        </div>
-    </div>
+    <tr>
+      <td>
+        <img
+          alt={props.name}
+          src={props.image}
+          style={{
+            height:120,
+            width: 120
+          }}
+        />
+      </td>
+      <td>
+        {props.name}
+      </td>
+      <td>
+        {props.phone}
+      </td>
+      <td>
+        {props.email}
+      </td>
+      <td>
+        {props.dob}
+      </td>
+    </tr>
   );
 }
 

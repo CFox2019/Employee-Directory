@@ -1,9 +1,17 @@
 import React from "react";
 // import "./style.css";
 
-function Title(props) {
-  return <h1 className="title">{props.children}</h1> &&
-  <h4 className="title">{props.children}</h4>;
+function Title() {
+  return (
+    <>
+      <h1>
+        Employee Directory
+      </h1>
+      <h4>
+        Click on carrots to filter by heading or use the search box to narrow your results
+      </h4>
+    </>
+  );
 }
 
 export default Title;
