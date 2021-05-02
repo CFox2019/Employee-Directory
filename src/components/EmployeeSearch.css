@@ -1,0 +1,10 @@
+.search {
+  background-color: #fafafa;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.search-input {
+  display: inherit;
+  margin: 0 auto;
+}

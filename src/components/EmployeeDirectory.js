@@ -20,7 +20,7 @@ function EmployeeDirectory(props) {
 
   return (
     <>
-      <table className="table table-striped">
+      <table className="centered table table-striped">
         <thead>
           <tr>
             <th>Image</th>

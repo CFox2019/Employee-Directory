@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import Title from "./components/Title.js";
 import EmployeeSearch from "./components/EmployeeSearch.js";
 import EmployeeDirectory from "./components/EmployeeDirectory.js";
 import './App.css';
 import API from './utils/API'
 import Employee from "./models/Employee";
+import Header from "./components/Header.js";
 class App extends Component {
 
   state = {
@@ -53,15 +53,18 @@ class App extends Component {
 
   render() {
     return (
-      <div className="container">
-        <Title />
+      <div className="container-fluid">
+        <Header />
 
         <EmployeeSearch handleSearch={this.handleEmployeeSearch} />
 
-        <EmployeeDirectory
-          employees={this.state.filteredEmployees.length > 0 ? this.state.filteredEmployees : this.state.employees}
-          removeEmployee={this.removeEmployee}
-        />
+        <div className="container">
+          <EmployeeDirectory
+            employees={this.state.filteredEmployees.length > 0 ? this.state.filteredEmployees : this.state.employees}
+            removeEmployee={this.removeEmployee}
+          />
+        </div>
+
       </div>
     );
   }

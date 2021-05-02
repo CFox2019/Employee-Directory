@@ -21,7 +21,7 @@ function EmployeeListItem(props) {
         {props.phone}
       </td>
       <td>
-        {props.email}
+      <a href={`mailto:${props.email}`}>{props.email}</a>
       </td>
       <td>
         {props.dob}
