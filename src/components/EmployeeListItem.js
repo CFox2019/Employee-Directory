@@ -8,10 +8,6 @@ function EmployeeListItem(props) {
         <img
           alt={props.name}
           src={props.image}
-          style={{
-            height:60,
-            width: 60
-          }}
         />
       </td>
       <td>

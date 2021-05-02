@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import EmployeeSearch from "./components/EmployeeSearch.js";
 import EmployeeDirectory from "./components/EmployeeDirectory.js";
-import './App.css';
-import API from './utils/API'
+import API from './utils/API';
 import Employee from "./models/Employee";
 import Header from "./components/Header.js";
 class App extends Component {
