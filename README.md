@@ -30,6 +30,10 @@ If you'd like to contribute to this project, start by forking the repository to 
 ## Tests
 Currently, there are no tests in the project. If you're interested in contributing to the project, this is something that would be a great contribution.
 
+## Link
+
+[Github pages link](https://cfox2019.github.io/Employee-Directory/)
+
 ## Questions
 GitHub: [CFox2019](https://github.com/CFox2019)
 
