@@ -2,25 +2,29 @@ import React from "react";
 import './EmployeeListItem.css';
 
 function EmployeeListItem(props) {
+  const formattedDate = (dob) => {
+    const date = new Date(dob)
+    return `${date.getMonth()+1}-${date.getDate()}-${date.getFullYear()}`
+  }
   return (
     <tr>
       <td>
         <img
-          alt={props.name}
-          src={props.image}
+          alt={ props.name }
+          src={ props.image }
         />
       </td>
       <td>
-        {props.name}
+        { props.name }
       </td>
       <td>
-        {props.phone}
+        { props.phone }
       </td>
       <td>
       <a href={`mailto:${props.email}`}>{props.email}</a>
       </td>
       <td>
-        {props.dob}
+        { formattedDate(props.dob) }
       </td>
     </tr>
   );

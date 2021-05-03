@@ -8,7 +8,7 @@ function EmployeeSearch(props) {
         type="text"
         placeholder="Search"
         className="search-input"
-        onChange={props.handleSearch}
+        onChange={ props.handleSearch }
       />
     </div>
   );
