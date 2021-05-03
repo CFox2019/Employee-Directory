@@ -32,10 +32,11 @@ Currently, there are no tests in the project. If you're interested in contributi
 
 ## Link
 
-[Github pages link](https://cfox2019.github.io/Employee-Directory/)
+* GitHub: [pages link](https://cfox2019.github.io/Employee-Directory/)
+
+* GitHub: [CFox2019](https://github.com/CFox2019)
 
 ## Questions
-GitHub: [CFox2019](https://github.com/CFox2019)
 
 Email me at [courtney.fox@me.com](courtney.fox@me.com) with additional questions.
 
